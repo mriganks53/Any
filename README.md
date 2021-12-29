@@ -1,2 +1,0 @@
-# Any
-Walmart Data set
